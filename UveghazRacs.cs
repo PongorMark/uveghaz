@@ -85,7 +85,7 @@ namespace Uveghazrendszer
 		{
 			kert[x - 1, y - 1].Csokkentes(mennyiseg);
 			Console.WriteLine($"{x},{y} ágyás növénye, a(z) {kert[x - 1, y - 1].Noveny.Nev} egyedszám: {kert[x - 1, y - 1].EgyedSzam}");
-		} 
+		}
 
 	}
 }
