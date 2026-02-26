@@ -8,5 +8,7 @@ namespace Uveghazrendszer
 {
 	internal class UveghazRacs
 	{
+		int meret;
+
 	}
 }
